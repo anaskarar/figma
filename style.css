@@ -1,0 +1,31 @@
+* {
+    background-color: lightsalmon;
+    padding: 0;
+    margin: 0;
+   
+}
+
+.container {
+    height: 200vh;
+}
+.navbar {
+    float: left;
+    padding: 20px;
+    height: 20px;
+    color: white;
+}
+
+.nav {
+float: right;
+}
+
+.fat {
+    float: left;
+    padding: 62px;
+}
+
+.image {
+    float: right;
+    width: 534px;
+    height: 712px;
+}
